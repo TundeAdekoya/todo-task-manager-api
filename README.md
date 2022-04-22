@@ -1,5 +1,5 @@
 # todo-task-manager-api
-A personal task management app for professionals in the workforce. The project aimed to build a task management app that improves productivity of individuals at work. The goal is to design a task management app that combines a simple user interface with an easy user experience.
+A personal task management app for professionals in the workforce. The project aimed to build a task management app that improves productivity of individuals at work. The goal is to design a task management app that combines a simple user interface with an easy user experience. View API: https://todo-task-manager-api.herokuapp.com/
 
 The aim was to design a task management app that combines a simple user interface with an easy user experience. In addition, gamification techniques were implemented to encourage users to complete task.
 
